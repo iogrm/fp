@@ -8,4 +8,4 @@
 
 ## [Scala](./scala/README.md)
 
-## [Hello World](./project/README.md)
+## [Project](./project/README.md)
